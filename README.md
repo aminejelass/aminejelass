@@ -1,78 +1,26 @@
 <h1 align="center">Hi 👋, I'm Med Amine Jelassi</h1>
-<h3 align="center" style>A passionate Full-Stack developer from Tunisia</h3>
+<h3 align="center">A passionate, detail-oriented JS developer from Tunisia</h3>
 
-<p align="center" style="margin : 10px auto;">
-<a href="https://www.linkedin.com/in/amine-jelassi/" target="blank" style="margin : auto 5px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohamed dhia" height="30" width="30" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminejelass" alt="amine" /></a> </p>
 
-</p>
-
----
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=aminejelass" alt="mohamed-dhia" /> </p>
-
-
-- 🌱 I’m currently learning **spring framework and django**
-
-- 💬 Ask me about **Javascript, React, Redux, express, Angular, MySQL, MongoDB**
 
 - 📫 How to reach me **aminejelassi95@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
-<img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
-<img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
-<img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
-<img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
-<img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
-<img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
-<img width="40" height="40" alt="nextjs" src="./icons/nextjs.svg"/>
-<img width="40" height="40" alt="angular" src="./icons/angularjs-plain.svg"/>
-<img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
-<img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
-<img width="40" height="40" alt="webpack" src="./icons/webpack-plain.svg"/>
-<img width="40" height="40" alt="babel" src="./icons/babel-original.svg"/>
-<img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
-<img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
-<img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
-<img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
-<img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
-<img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
-<img width="40" height="40" alt="postgresql" src="./icons/postgresql-plain.svg"/>
-<img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
-<img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
-<img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-<img width="40" height="40" alt="go" src="./icons/go-original.svg"/>
-<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
-<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
-<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
+<a href="https://linkedin.com/in/amine-jelassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souha-gaaloul" height="30" width="40" /></a>
 
----
+</p>
 
-<table width="100%">
-<tr>
-<td width="60%">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminejelass&show_icons=true" alt="mohamed-dhia" /></p>
-</td>
-<td width="40%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminejelass&layout=compact" alt="mohamed-dhia" /></p>
-</td>
-</tr>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminejelass&show_icons=true&locale=en&layout=compact" alt="amine" /></p>
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/riv2md9ix0a8vgfdwitiga1do)
+<p><img align="center" margin-bottom="20px" src="https://github-readme-stats.vercel.app/api?username=aminejelass&show_icons=true&locale=en" alt="amine" /></p>
 
----
-
-<details>
-<summary>:zap: Recent Activity</summary>
-<br>
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#108](https://github.com/lauripiispanen/most-active-github-users-counter/issues/108) in [lauripiispanen/most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter)
-<!--END_SECTION:activity-->
-</details>
+<p><img align="center" margin-bottom="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=aminejelass&" alt="amine" /></p>
