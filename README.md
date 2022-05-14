@@ -1,17 +1,78 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminejelass&show_icons=true)
+<h1 align="center">Hi 👋, I'm Med Amine Jelassi</h1>
+<h3 align="center" style>A passionate Full-Stack developer from Tunisia</h3>
 
-<!--
-**aminejelass/aminejelass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="margin : 10px auto;">
+<a href="https://www.linkedin.com/in/amine-jelassi/" target="blank" style="margin : auto 5px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohamed dhia" height="30" width="30" /></a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aminejelass" alt="mohamed-dhia" /> </p>
+
+
+- 🌱 I’m currently learning **spring framework and django**
+
+- 💬 Ask me about **Javascript, React, Redux, express, Angular, MySQL, MongoDB**
+
+- 📫 How to reach me **aminejelassi95@gmail.com**
+
+
+
+<p align="left">
+<img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
+<img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
+<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
+<img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
+<img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
+<img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
+<img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
+<img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
+<img width="40" height="40" alt="nextjs" src="./icons/nextjs.svg"/>
+<img width="40" height="40" alt="angular" src="./icons/angularjs-plain.svg"/>
+<img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
+<img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
+<img width="40" height="40" alt="webpack" src="./icons/webpack-plain.svg"/>
+<img width="40" height="40" alt="babel" src="./icons/babel-original.svg"/>
+<img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
+<img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
+<img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
+<img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
+<img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
+<img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
+<img width="40" height="40" alt="postgresql" src="./icons/postgresql-plain.svg"/>
+<img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
+<img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
+<img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+<img width="40" height="40" alt="go" src="./icons/go-original.svg"/>
+<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
+<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
+<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
+
+---
+
+<table width="100%">
+<tr>
+<td width="60%">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminejelass&show_icons=true" alt="mohamed-dhia" /></p>
+</td>
+<td width="40%">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminejelass&layout=compact" alt="mohamed-dhia" /></p>
+</td>
+</tr>
+</table>
+
+---
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/riv2md9ix0a8vgfdwitiga1do)
+
+---
+
+<details>
+<summary>:zap: Recent Activity</summary>
+<br>
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#108](https://github.com/lauripiispanen/most-active-github-users-counter/issues/108) in [lauripiispanen/most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter)
+<!--END_SECTION:activity-->
+</details>
