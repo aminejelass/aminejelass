@@ -11,9 +11,4 @@
 <a href="https://linkedin.com/in/amine-jelassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine jelassi" height="30" width="40" /></a>
 
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminejelass/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminejelass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
